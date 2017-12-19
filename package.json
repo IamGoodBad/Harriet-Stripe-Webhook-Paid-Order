@@ -1,0 +1,11 @@
+{
+  "name": "paidSeptemberOrder",
+  "description": "Webhook for paid orders.",
+  "dependencies": {
+    "firebase-admin": "^4.0.5",
+    "@google-cloud/datastore": "^1.2.0",
+    "googleapis": "^23.0.0",
+    "stripe": "^5.4.0"
+  },
+  "private": true
+}
